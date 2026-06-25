@@ -1,2 +1,5 @@
 # aula-git
 ESTE REPOSITÓRIO CONTÉM OS ARQUIVOS UTILIZADOS P/ AULA PRÁTICA DE GIT. APLICANDO OS CONCEITOS NA PRÁTICA!
+
+## Texto
+Adicionando um texto dentro do arquivo de README
